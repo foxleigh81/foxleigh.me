@@ -10,7 +10,8 @@ All pages reside in `src/library/pages`, every subfolder of pages (as well as pa
 
 - `index.md`: The contents of the page
 - `hero.[ext]`: The hero image of the page (optional)
-- `config.json`: The configuration of that page
+- `config.json`: The configuration of that page (optional)
+- An `images` folder (optional)
 
 ## Page config
 
@@ -18,8 +19,6 @@ Page configs tell the site how to deal with particular pages, it's structure is 
 
 ```json
 {
-  "in_site" : ["foxblog"],
-  "canonical" : "foxblog",
   "redirect" : {
     "to" : "url",
     "method" : 301
@@ -29,9 +28,9 @@ Page configs tell the site how to deal with particular pages, it's structure is 
 
 Here is an explanation of each item:
 
-- `in_site`: As this framework will soon support multiple sites, this config tells the build tool which sites this article should appear on
-- `canonical`: As pages will exist on multiple sites, a canonical tag would improve site SEO. This tag ensures that the canonical tag uses the correct site as the originator of the article.
 - `redirect`: This will tell the site to redirect any requests to this url to another url and which method to use (see [this article](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections) for more information about redirection methods) if no method is set, it will default to a 301.
+
+Rather than call this file `redirect.json` I have called it `config.json` that way if I want to add other options in the future, I can.
 
 ## Page Meta Data
 
