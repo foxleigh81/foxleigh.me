@@ -4,7 +4,7 @@ template: article
 comments: true 
 author: Alex Foxleigh
 title: "2018 Goals: How did I do?"
-date: "2018-02-15"
+date: "2019-03-07"
 bgPos: right
 excerpt: 2017 was a banner year for me. I achived so many of my goals that my life just lurched forward. That made 2018 a tough act to follow. However I did surprisingly well on my goals. Here's how I did.
 ---

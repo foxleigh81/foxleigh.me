@@ -3,47 +3,47 @@ tags: "legacy"
 template: article 
 comments: true 
 author: Alex Foxleigh
-title: "2018 Goals"
-date: "2018-02-15"
+title: "2017 Goals"
+date: "2017-01-27"
 bgPos: right
 ---
 
-This year has a hard act to follow, in 2017 I smashed all but one of my goals and they were not small goals (Get married, Save 15k, Buy a house, publish a book).
+Each year, once the dust of the last year has settled. I like to set myself some goals, sometimes I even remember to put them down in a post such as this one. Whilst these goals may not be that interesting to other people, I find that committing them in this way makes me more accountable and makes me more likely to work towards achieving my goals.
 
-I still have goals left to achieve though so let's get them down!
+So without further ado:
 
 <!-- end -->
 
-## 1) Reach 200lbs
+## 1 Reach 200lbs
 
-One of these days I'm actually going to achieve this one, however this year I feel like I stand a fighting chance. Some of my worser demons have been exised now (I used to crave bad food a lot, especially if I was tired/stressed/grumpy/awake, now I very rarely do) and I've developed some pretty decent habits (I walk a lot more these days and although I'm definitely not a vegetarian, my diet is a lot less meat-based and a lot more plant-based than it used to be).
+Next year, I’m getting married and right now I’m pretty overweight. Regular readers of my blog (do I have any of those? Hi Mum!) will know that my weight is something I have been battling with for many years and at one point, I even started a YouTube challenge where I did a juice fast for a while.
 
-I'm still sceptical that I can lose 40lbs in the space of one year without doing something extreme but hey, it wouldn't be a year goal if it was easy.
+2016 was a pretty landmark year for my health, I discovered that I loved the outdoors and more importantly, I discovered that my life didn’t end or even change much at all once I gave up fizzy drinks. In the past I’ve managed to cut down on my sugar intake by limiting myself to only having it at the weekends but I’ve never managed to give up an entire section of sugary treats and anyone who knows me, knows that fizzy drinks were like crack to me. I’ve now not had a single fizzy drink since October last year (actually, that’s a lie, I drank a mouthful of coke about 2 weeks ago to see if I thought it would taste different – it did, far too sweet for me now!).
 
-## 2) Finish my novel
+My body has started to respond to this and my weight is slowly coming down, at this moment I am around 245lbs (last August I was 256lbs!). I’m hoping that my new, healthier lifestyle will mean that I don’t have to worry about yo-yoing (something that happens to me on a pretty much annual basis) but, just to make sure that I stay on a downward trajectory. I’m going to start doing some more exercise, I’ll be joining my local archery club when they re-open in a few months, I’m going to start hiking more regularly (which I love doing anyway so that shouldn’t be too hard and I am looking for a parkour class that is convenient for me to get to. If I can convince my fiancée to come with me, I also plan to start an MMA class soon).
 
-Last year I published a book that I'd spent several years writing, as great as an achievement as that was, it was a non-fiction book and took attention away from my novel writing. Emily Bell has been on my laptop in (half of a) draft format for at [least 6 years](/mind-body-and-soul/2012-not-the-end-the-beginning/).
+## 2 Save £15k
 
-Even if I don't send it to a publisher this year, I'd still be very happy if I could at least finish the first and second drafts.
+The year hasn’t gotten to a great start for this one, I’m not going to lie. Thanks to an unplanned move and a hefty tax bill, my finances are pretty low at the moment, however thanks to YNAB and a bit of will-power, I am pretty sure I can bounce back by the start of March. Once this happens I plan to open an investment portfolio and work out some ways to add extra income streams to my balance sheet. I already have some cash savings (Thanks Dad!) but I’m not including that in my goal as that would be cheating.
 
-## 3) Get a bath
+ 
 
-Don't worry, my goal for 2018 isn't 'have a bath' its 'get a bath', as much as I love our new house, it only has showers, however, the main bathroom is right next to the guest room which itself is next to a room so small that it's practically useless apart from storing crap. So we plan to have builders in to move some walls around and extend our bathroom so it's big enough to put a bathtub in there as both of us sorely miss having a nice soak in the tub. I imagine this will be quite expensive though and we're still recovering financially from last year so again, this one is a tall order.
+## 3 Buy a house
 
-## 4) Achieve 100% remote work
+Realistically, this ain’t gonna happen this year. There is no way we’re going to get a deposit together, plus as I mentioned earlier, we’ve just moved so we’ve got a 1 year rental contract anyway. However it’s still definitely a goal and you never know, perhaps I’ll get a fantastic book deal, perhaps I’ll find some buried treasure or maybe one of my income stream ideas pays of big time.
 
-As I write this, I'm having to do a long commute (3 hours on a good day, up to 4 hours on an average day) and it's driving me mental. Prior to this, I had a contract which was 70% remote for over a year and prior to that, I had one that was 90% remote.
+Maybe we’ll just carry on obsessively looking at RightMove and sighing for a bit longer.
 
-Due to the nature of my job and the fact that I don't like going into London, I want to make it my goal this year that I exclusively take 100% remote contracts (barring the odd day here and there where I go in for a meeting or something).
+## 4 Get married
 
-Ideally, I'd do this via freelancing (I do as many projects as I can want for as many clients as I like in my own time at my own pace for an hourly/daily/fixed rate) but as it's harder to get freelance roles, contracting (I have a single client and I work for them for set hours on a single project) is much more likely.
+Four years ago I hit the jackpot when one of my incredibly attractive, intelligent and lovely friends told me she had feelings for me, last week, I asked her to marry me, so now we’ve got a wedding to arrange!
 
-Either way is fine though, so long as I don't have to leave my house :)
+Again, this isn’t gonna happen this year as we’ve got a lot to plan and a lot to save up for, however we still need to do the planning and the saving so this is a valid goal.
 
-## 5) Get a puppy and a kitten.
+## 5 Publish a book
 
-Last year, we lost Ember, a few years before that, we lost Puddles, we now are completely petless and it sucks big time.
+I’m currently writing two books, one is a novel that I’ve been working on for years (very slowly) and one is a political non-fiction book which I’ve actually finished and am now working on re-drafting.
 
-We plan to get a kitten as soon as one of us can be at home for a month so that it's not alone during its formative weeks and if I do manage to achieve goal 4 and I can be at home all the time, we're also going to get a puppy. The latter is particularly exciting to me as I've never had a dog before.
+Pretty soon I suspect it will be at a state where I can start trying to get it published. As I’ve never done this before, I have no idea how successful I’ll be and from what I’ve heard, this process is more frustrating and time-consuming than actually writing the damn book, so wish me luck!
 
-Well, that's it. I'll check back in a year and we'll see how I did!
+At the end of the year, I’ll make another post to review these goals and we’ll see how I’ve done!

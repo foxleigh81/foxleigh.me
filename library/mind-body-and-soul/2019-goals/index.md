@@ -3,47 +3,63 @@ tags: "legacy"
 template: article 
 comments: true 
 author: Alex Foxleigh
-title: "2017 Goals"
-date: "2017-01-27"
+title: "2019 Goals"
+date: "2019-03-07"
 bgPos: right
 ---
 
-Each year, once the dust of the last year has settled. I like to set myself some goals, sometimes I even remember to put them down in a post such as this one. Whilst these goals may not be that interesting to other people, I find that committing them in this way makes me more accountable and makes me more likely to work towards achieving my goals.
-
-So without further ado:
+Every year, I like to set myself a public list of goals that I then do my best to acheive. Some years it works, some years it doesn't, most years I manage to make this list before nearly a quarter of it is already in the past, this was not one of those years.
 
 <!-- end -->
 
 ## 1 Reach 200lbs
 
-Next year, I’m getting married and right now I’m pretty overweight. Regular readers of my blog (do I have any of those? Hi Mum!) will know that my weight is something I have been battling with for many years and at one point, I even started a YouTube challenge where I did a juice fast for a while.
+Every year I've added this goal and every year I'm sure it will be the year I acheive it. However this year stands a fighting chance as at the end of last year, I made one major change which I've - so far - managed to stick to.
 
-2016 was a pretty landmark year for my health, I discovered that I loved the outdoors and more importantly, I discovered that my life didn’t end or even change much at all once I gave up fizzy drinks. In the past I’ve managed to cut down on my sugar intake by limiting myself to only having it at the weekends but I’ve never managed to give up an entire section of sugary treats and anyone who knows me, knows that fizzy drinks were like crack to me. I’ve now not had a single fizzy drink since October last year (actually, that’s a lie, I drank a mouthful of coke about 2 weeks ago to see if I thought it would taste different – it did, far too sweet for me now!).
+I actually exercise now!
 
-My body has started to respond to this and my weight is slowly coming down, at this moment I am around 245lbs (last August I was 256lbs!). I’m hoping that my new, healthier lifestyle will mean that I don’t have to worry about yo-yoing (something that happens to me on a pretty much annual basis) but, just to make sure that I stay on a downward trajectory. I’m going to start doing some more exercise, I’ll be joining my local archery club when they re-open in a few months, I’m going to start hiking more regularly (which I love doing anyway so that shouldn’t be too hard and I am looking for a parkour class that is convenient for me to get to. If I can convince my fiancée to come with me, I also plan to start an MMA class soon).
+As we do not currently have a bath in our house (see Goal #3) we decided to join a local gym which has a spa pool, for me, the reason to join the gym was so I had a place I could soak my - usually - aching body body on a night, I never really had much of an intention to do any working out and fully intended to bin the gym membership as soon as our bathroom was done.
 
-## 2 Save £15k
+However, connected to the spa pool was an actual pool. So - on the odd occasion when I felt I could be bothered - I jumped in the pool and had a paddle about. Then after a few weeks, I started to swim properly in it. Then I bought some goggles and a nose clip and started swimming at least 10 lengths every time I went to the gym. 
 
-The year hasn’t gotten to a great start for this one, I’m not going to lie. Thanks to an unplanned move and a hefty tax bill, my finances are pretty low at the moment, however thanks to YNAB and a bit of will-power, I am pretty sure I can bounce back by the start of March. Once this happens I plan to open an investment portfolio and work out some ways to add extra income streams to my balance sheet. I already have some cash savings (Thanks Dad!) but I’m not including that in my goal as that would be cheating.
+Fast forward a few months and now the spa-pool is where I go to soak my incredibly aching muscles after I've had a proper swim workout. I've started doing HIIT (High Intensity Interval Training) swimming, which means I only actually swim for 15 minutes but I go hell-for-leather when I do it. Amazingly, I can already feel a huge difference in my body. I feel stronger, less achy and I have definitly got some muscle now! 
 
- 
+I'm still very overweight and have a long way to go before I will be 200lbs but it's actually feasible that this will happen before 2020!
 
-## 3 Buy a house
+## 2 Learn to drive
 
-Realistically, this ain’t gonna happen this year. There is no way we’re going to get a deposit together, plus as I mentioned earlier, we’ve just moved so we’ve got a 1 year rental contract anyway. However it’s still definitely a goal and you never know, perhaps I’ll get a fantastic book deal, perhaps I’ll find some buried treasure or maybe one of my income stream ideas pays of big time.
+I haven't listed this goal in [7 years](/mind-body-and-soul/2012-not-the-end-the-beginning) because even though it kinda bothered me that I couldn't drive, I have - until recently - always live in an area where driving didn't really matter. Going from Leeds city centre (everything I wanted was on my doorstep), to Portsmouth (a pretty compact city so easy to get around on foot/bike/bus), to London (It's London, I just took the tube everywhere). However in 2016, we left city life behind us and moved to - what I thought was - the country, at first I didn't really mind, I spent most of my time either working from home or going into London, I didn't really need a car and the times I did, Colette could drive me.
 
-Maybe we’ll just carry on obsessively looking at RightMove and sighing for a bit longer.
+Then we bought our house and moved to the *proper* countryside, it was only then that I realised that the area we lived in before was bascially a more rural extension of London, I had high-speed internet, great transport links everywhere and if I needed a car during the day I still had Uber.
 
-## 4 Get married
+Now I live in a town 4 miles away from the nearest city (Guildford) and we're on the outskirts, behind our house is open countryside which goes on for miles and the internet here is so slow that it takes me 22 hours to upload a blog post (ok that's an exaggeration, it's more like 21 hours and 50 minutes). 
 
-Four years ago I hit the jackpot when one of my incredibly attractive, intelligent and lovely friends told me she had feelings for me, last week, I asked her to marry me, so now we’ve got a wedding to arrange!
+The problem is that I love it here, it's peaceful and relaxing, it smells amazing and I have a balcony which gives me panoramic views of the incredible [Surrey Hills](https://www.surreyhills.org/) instead of some fat dude having a topless BBQ on his own balcony (alone).
 
-Again, this isn’t gonna happen this year as we’ve got a lot to plan and a lot to save up for, however we still need to do the planning and the saving so this is a valid goal.
+So I can't go back, I'm countrified now and that means I need to be able to get around, there isn't even a realible taxi company here, let alone Uber and the buses are pretty terrible so there is nothing for it. I have to be able to drive.
 
-## 5 Publish a book
+I'm almost certainly going to succeed at this one (famous last words), I actually started my lessons quite a while ago and I even have my driving test booked so I'm pretty sure we'll be seeing a big ol' 'success' label on the 'how did I do' post in 2020.
 
-I’m currently writing two books, one is a novel that I’ve been working on for years (very slowly) and one is a political non-fiction book which I’ve actually finished and am now working on re-drafting.
+## 3 Get my bathroom done
 
-Pretty soon I suspect it will be at a state where I can start trying to get it published. As I’ve never done this before, I have no idea how successful I’ll be and from what I’ve heard, this process is more frustrating and time-consuming than actually writing the damn book, so wish me luck!
+I still don't have a bath in my house, Colette and I decided that we were not going to settle for any old bath, we're going to get a freestanding copper bath, we've already chosen the one we want and we've even had some preliminary works carried out ready for our bathroom remodel.
 
-At the end of the year, I’ll make another post to review these goals and we’ll see how I’ve done!
+Yup, I said 'remodel', we're not just having a bath installed now, we've decided to basically demolish everything that the previous owners did in there and rebuild it from scratch. How will it go? Find out next year!
+
+## 4 Get my office sorted.
+
+I've been a remote worker for about 5 years now and last year I acheived the coveted goal of 100% remote work (or near as dammit). I've had some pretty ropey home offices in the past but in this house, I've struck gold. However it's not perfect. I would love to have a properly kitted out home office with everything I may need in it.
+
+Again this one is pretty much a foregone conclusion, I've got practically everything I need now to achieve this goal, I just need the time to put it all together which I hope to do within the next month.
+
+## 5 Build that wall
+
+No, not THAT wall. Our house is lovely but we are not loaded and couldn't afford a big beautiful house without making some fairly big compromises, so our compromise was that we bought a house next to a busy road. This turned out to be more of a compromise than I anticipated as the noise can occasionally drive me crazy. 
+
+We have two options to alleviate this, get triple glazing installed at the front of the house (which we might do anyway but that's boring) or build a two-metre high wall around the perimiter.
+
+The latter is a lot more preferable to me as a) it blocks people out of my world a bit more - always a bonus, b) It stops fuckwits from throwing litter in our drive way and most importantly c) having a big wall around your house is baddass.
+
+This goal might not happen this year as although Col has accepted that it's going to happen, she's not really sold on it as a priority. I've got a much better chance at selling her on the triple glazing as that's also more energy efficient. However we shall see.
+
+Tune in next year to find out how I did!
