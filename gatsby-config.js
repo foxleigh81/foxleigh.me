@@ -38,6 +38,7 @@ module.exports = {
         resources: [
           `${__dirname}/src/helpers/css/_reset.scss`,
           `${__dirname}/src/helpers/css/_variables.scss`,
+          `${__dirname}/src/helpers/css/_mixins.scss`,
         ],
       },
     },

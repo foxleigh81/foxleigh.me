@@ -24,6 +24,10 @@
   a {
     display: block;
     color: $text-ld;
+    padding: $padding;
+    &:hover {
+      background-color: grey;
+    }
   }
 
   nav {
@@ -31,7 +35,12 @@
   }
   li {
     font-size: $paragraph;
-    margin-right: $margin * 3;
-    display: inline-block;
+    @include bp(m) {
+      display: inline-block;
+      padding: 0 $margin * 2;
+      &:first-of-type {
+        padding-left: 0;
+      }
+    }
   }
 }
