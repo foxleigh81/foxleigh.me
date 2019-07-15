@@ -1,5 +1,5 @@
 ---
-title: Welcome to The Foxleigh Blog
+title: Welcome to Foxleigh Blog
 template: category
 bgPos: right
 ---

@@ -20,6 +20,8 @@
   h1 {
     margin-top: $margin;
     text-transform: uppercase;
+    text-align: center;
+    font-size: 7rem;
   }
   a {
     display: block;
@@ -32,6 +34,7 @@
 
   nav {
     padding: $padding * 2 0;
+    text-align: center;
   }
   li {
     font-size: $paragraph;

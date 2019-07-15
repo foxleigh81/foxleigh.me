@@ -42,7 +42,10 @@
 
   
   &__content {
-    padding: $padding * 2 $padding * 5;
+    padding: $padding * 3 $padding * 7;
+    .landing-page-container & {
+      padding: $padding * 2 $padding * 2;
+    }
     p {
       margin-bottom: $margin;
       img {

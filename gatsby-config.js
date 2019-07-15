@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'The Foxleigh Blog',
+    title: '🦊 Foxleigh Blog',
     description: 'The blog of Alexander Foxleigh',
     author: 'Alex Foxleigh',
     siteUrl: 'http://foxleigh.me',
@@ -46,7 +46,7 @@ module.exports = {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
         host: 'https://foxleigh.me',
-        policy: [{ userAgent: '*', disallow: '/' }],
+        policy: [{ userAgent: '*', allow: '/' }],
       },
     },
     {
@@ -72,10 +72,10 @@ module.exports = {
         name: 'alex-foxleigh-blog',
         short_name: 'foxyblog',
         start_url: '/',
-        background_color: '#663399',
-        theme_color: '#663399',
+        background_color: '#e2641e',
+        theme_color: '#e2641e',
         display: 'minimal-ui',
-        // icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/favicon.png`, // This path is relative to the root of the site.
       },
     },
     {
