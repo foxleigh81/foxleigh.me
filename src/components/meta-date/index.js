@@ -17,9 +17,9 @@ const MetaDate = ({ date }) => {
 
   return (
     <div className="meta-date">
-      <span class="day">{dateParts(top.date).day}</span>
-      <span class="month">{dateParts(top.date).month}</span>
-      <span class="year">{dateParts(top.date).year}</span>
+      <span class="day">{dateParts(date).day}</span>
+      <span class="month">{dateParts(date).month}</span>
+      <span class="year">{dateParts(date).year}</span>
     </div>
   )
 }
