@@ -42,7 +42,7 @@ and here is the glorious 'after' shot:
 
 ![My office, post-upgrade](./images/after.jpg)
 
-I still have a few more upgrades to make. I want to mount my server monitor to the shelves to the left of my desk and put some LED lighting in the built-in shelving but all-in-all. I'm incredibly happy with the result.
+I need to mount my pictures again and I still have a few more upgrades to make. I want to mount my server monitor to the shelves to the left of my desk and put some LED lighting in the built-in shelving but all-in-all. I'm incredibly happy with the result. I might even do a post about it at some point.
 
 ## 5) Build that wall: FAILED
 
