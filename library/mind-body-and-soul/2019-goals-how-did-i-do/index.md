@@ -20,7 +20,7 @@ I weighed myself when I got up this morning on the off chance that I now weight 
 
 Amazingly, I passed this one, I took my test in April and passed first time. I got my first car in May and I'm utterly in love!
 
-![Mini!](https://scontent-lhr3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/56848271_432388580845240_7469806915563140589_n.jpg?_nc_ht=scontent-lhr3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=Y4EEdY0d5x0AX-zcF0o&oh=cdc880df9a862b5f7ff75bf09afb65f7&oe=5E8D876B)
+![Mini!](./images/blue-midget.jpg)
 
 I want to do my pass-plus this year so I can get my insurance down, I'm a pretty decent driver (although I've got a habit of over-revving the engine), so I think I'll be able to get that done fairly easily.
 
