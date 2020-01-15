@@ -49,7 +49,7 @@ Right, that's the health stuff done.
 
 ## 4) Get my finances in order
 
-A few years ago, Colette and I bought a house and since then, we've both been skint, in fact we've been in debt and, whilst that's improved a lot, it's still true as of today.
+A few years ago, Colette and I [bought a house](/mind-body-and-soul/2017-goals-how-did-i-do/) and since then, we've both been skint, in fact we've been in debt and, whilst that's improved a lot, it's still true as of today.
 
 So, my goal for this year is to eliminate my non-essential debt and build up a savings pool. I can't do much about my student loans, my car loan or my mortgage but I've got credit card debt and a few other loan agreements which are pretty small and should be achievable debt goals for the year.
 
@@ -70,5 +70,12 @@ I'll consider this goal complete if one of the following house projects is compl
 
 I'll consider it smashed if more than one of those is done, I'll do a goddamn cartwheel if they are all done as it means that somehow we became rich during 2020.
 
+## 6) Finish the first draft of Emily Bell
 
+New readers to my blog (Do I have any readers yet?) may not know this but I used to be quite a keen novel writer, or should I say 'aspiring' novel writer as I've yet to finish one. A novel I've been working on for [Many years](/scribblings/cover-design-for-emily-bell/) is a story called 'The bleeding heart of Emily Bell'. I've literally been working on this for a decade at this point but the main reason I've yet to finish the first draft is because I just don't make the time to write anymore.
 
+Now I'm only working four days per week, I want to use my extra day off as a 'doing' day. Now unfortunately I have a list of personal projects longer than my arm, so part of my job this year will be to whittle down that list and remove some of the less useful projects from my list and also get my priorities in order, I know that my top priority this year will be to finish the first draft of my novel so I will try to make a lot of time for that.
+
+--- 
+
+So, those are my 6 goals for the year, tune in next year to see how I did!
