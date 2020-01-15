@@ -8,7 +8,7 @@ date: "2020-01-10"
 bgPos: right
 ---
 
-It's not just a new year, it's a new decade, welcome to the roaring 20's!
+It's not just a new year, it's a new decade, welcome to the roaring 20's! Let's set some goals, shall we?
 
 <!-- end -->
 
