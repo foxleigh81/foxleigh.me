@@ -4,15 +4,16 @@ template: article
 comments: true 
 author: Alex Foxleigh
 title: "2020 Goals"
-date: "2020-01-03"
+date: "2020-01-10"
 bgPos: right
 ---
 
 It's not just a new year, it's a new decade, welcome to the roaring 20's!
 
+<!-- end -->
+
 So this is the decade where I'll hit 40 and I'm starting to feel my age, I realised the last few months that my health trajectory isn't sustainable anymore as I'm too old to just shrug it off. With that in mine, most of my goals this year are about changing that trajectory.
 
-<!-- end -->
 
 ## 1) Maintain a sustainable weight loss
 
