@@ -14,7 +14,7 @@ bgPos: right
 
 ## 1) Maintain a sustainable weight loss... continued
 
-Last year, I didn't manage to achieve any weight loss, in fact I ended the year 0.6lbs heavier. This year, I really hope to change that. Before lockdown hit, I was on track to lose around 1/2lb a week, if I can continue that this year I should be able to concievable lose almost 2 stone, which would be great. I'm not setting that as a target, I'm just sticking to the goal of sustained (and sustainable) weight loss.
+Last year, I didn't manage to achieve any weight loss, in fact I ended the year 0.6lbs heavier. This year, I really hope to change that. Before lockdown hit, I was on track to lose around 1/2lb a week, if I can continue that this year I can potentially lose almost 2 stone, which would be great. I'm not setting that as a target, I'm just sticking to the goal of sustained (and sustainable) weight loss.
 
 ## 2) Get my finances in order ... continued
 
