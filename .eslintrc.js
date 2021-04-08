@@ -1,24 +1,40 @@
 module.exports = {
-  extends: ['airbnb'],
-  parser: 'babel-eslint',
-  rules: {
-    'semi': [1, 'never'],
-    'jsx-a11y/label-has-for': 0,
-    'jsx-a11y/label-has-associated-control': 0,
-    'react/destructuring-assignment': 0,
-    'react/jsx-filename-extension': [
-      1,
-      {
-        extensions: ['.js'],
-      },
-    ],
-    'react/jsx-one-expression-per-line': 0,
+  root: true,
+  parser: '@typescript-eslint/parser',
+  plugins: ['@typescript-eslint', 'sonarjs'],
+  extends: ['eslint:recommended', 'plugin:sonarjs/recommended'],
+  parserOptions: {
+    ecmaVersion: 2020,
+    sourceType: 'module',
+    ecmaFeatures: {
+      jsx: true
+    }
   },
   settings: {
-    'import/resolver': {
-      webpack: {
-        config: 'webpack/webpack.dev.js',
-      },
-    },
+    react: {
+      version: 'detect'
+    }
   },
+  overrides: [
+    {
+      files: ['**/*.ts', '**/*.tsx'],
+      env: {
+        browser: true
+      },
+      extends: [
+        'plugin:react/recommended',
+        'plugin:@typescript-eslint/recommended',
+        'prettier',
+        'prettier/@typescript-eslint'
+      ]
+    }
+  ],
+  env: {
+    browser: true,
+    node: true
+  },
+  rules: {
+    'sonarjs/cognitive-complexity': 'warn',
+    'react/prop-types': [2, { ignore: ['children'] }]
+  }
 }
